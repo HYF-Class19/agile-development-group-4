@@ -28,13 +28,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   |   Sunday   |
-| ------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :--------: |
-| _Brian_ | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm |
-| _Inna_  | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm  |  --------  |
-| _Azima_ | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm | 15pm - 18pm | 10am - 14pm |  --------  |
-| _Barnabas_ | 13 - 23 | 13 - 23 | 13 - 23 | 13 - 23 | 13 - 23 | 13 - 23 |  --------  |
-| _name_  | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00pm - 00pm | 00am - 00pm |  --------  |
+| Day        |   Monday    |   Tuesday   |  Wednesday  |  Thursday   |   Friday    |  Saturday   |   Sunday   |
+| ---------- | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: | :--------: |
+| _Brian_    | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm |
+| _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm  |  --------  |
+| _Azima_    | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm | 15pm - 18pm | 10am - 14pm |  --------  |
+| _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |  --------  |
+| _name_     | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00pm - 00pm | 00am - 00pm |  --------  |
 
 ### How many hours everyone has per day
 
