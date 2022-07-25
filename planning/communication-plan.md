@@ -32,14 +32,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ------- | :---------: | :---------: | :---------: | :--------: | :---------: | :--------: | :--------: |
 | _Brian_ | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm | 8am - 12pm  | 8am - 12pm | 8am - 12pm |
 | _Inna_  | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm | 12am - 12pm | 9am - 12pm |  --------  |
+| _Azima_ | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm| 15pm - 18pm | 10am - 14pm|  --------  |
+| _name_  | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00am - 00pm| 00pm - 00pm | 00am - 00pm|  --------  |
+| _name_  | 00am - 00pm | 00am - 00pm | 00am - 00pm | 00am - 00pm| 00pm - 00pm | 00am - 00pm|  --------  |
 
 ### How many hours everyone has per day
 
 - Brian: _4h_; In this week, I am working everyday from 2pm - 10pm
 - Inna: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Azima: _8h_;
+- name: _0h_;
+- name: _0h_;
 
 ## Asking for Help
 
