@@ -39,9 +39,9 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Brian: _4h_; In this week, I am working everyday from 2pm - 10pm
-- Inna: _10h_;
+- Inna: _06h_;
 - Azima: _8h_;
-- Barnabas: _6h_;
+- Barnabas: _10h_;
 - name: _0h_;
 
 ## Asking for Help
