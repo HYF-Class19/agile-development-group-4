@@ -28,15 +28,15 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day     |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |   Sunday   |
-| ------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| _Brian_ | 8am - 12pm | 8am - 12pm | 8am - 12pm | 8am - 12pm | 8am - 12pm | 8am - 12pm | 8am - 12pm |
-| _name_  |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |
+| Day     |   Monday    |   Tuesday   |  Wednesday  |  Thursday  |   Friday    |  Saturday  |   Sunday   |
+| ------- | :---------: | :---------: | :---------: | :--------: | :---------: | :--------: | :--------: |
+| _Brian_ | 8am - 12pm  | 8am - 12pm  | 8am - 12pm  | 8am - 12pm | 8am - 12pm  | 8am - 12pm | 8am - 12pm |
+| _Inna_  | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm | 12am - 12pm | 9am - 12pm |  --------  |
 
 ### How many hours everyone has per day
 
 - Brian: _4h_; In this week, I am working everyday from 2pm - 10pm
-- name: _6h_; extra comments?
+- Inna: _6h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
