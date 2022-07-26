@@ -34,6 +34,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _Inna_     | 15am - 12pm | 15am - 12pm | 15am - 12pm | 9am - 12pm  | 12am - 12pm | 9am - 12pm  |  --------  |
 | _Azima_    | 13am - 21pm | 13am - 21pm | 13am - 21pm | 13am - 21pm | 15pm - 18pm | 10am - 14pm |  --------  |
 | _Barnabas_ |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |   13 - 23   |  --------  |
+| _Oleksii_  |  ---------  |  7pm - 9pm  | 8am - 10am  | 7pm - 12pm  | 7pm - 12pm  | 7pm - 12pm  | 7am - 10am |
 | _Verousca_ | 12pm - 12am | 12pm - 12am | 12pm - 3pm  | 12pm - 3pm  | ----------- | 9am - 12am  |  --------  |
 |            |             |             | 9pm - 12am  | 9pm - 12am  | ----------- |             |  --------  |
 
@@ -43,6 +44,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Inna: _06h_;
 - Azima: _8h_;
 - Barnabas: _10h_;
+- Oleksii: _3h_;
 - Verousca: _6h_;
 
 ## Asking for Help
