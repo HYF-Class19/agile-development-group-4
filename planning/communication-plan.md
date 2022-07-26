@@ -39,7 +39,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - Brian: _4h_; In this week, I am working everyday from 2pm - 10pm
 - Inna: _6h_;
-- Verousca: _6h_;
+- Verousca: _6hrs_;
 - name: _4h_;
 - name: _3h_;
 
