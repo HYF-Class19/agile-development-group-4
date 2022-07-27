@@ -1,8 +1,12 @@
 # Backlog
 
-A collection of user stories for your project. Stories inside of each priority
-level are not necessarily in order. You and your team will decide when to
-develop each story by drawing out your [Story Sequencing](#story-sequencing).
+The project backlog represents a collection of the various needs of a
+user/customer. These needs are then transformed into a prioritized list of work
+for the development team to work through.
+
+For this project, three priority levels were distinguished i.e.,
+**_Must-Haves_**, **_Should-Haves_** and, **_Could-Haves_** as further discussed
+below.
 
 ## Must-Haves
 
