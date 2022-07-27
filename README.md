@@ -14,7 +14,7 @@ _“Plant tree. It is for free”_...
 > This project is to rebuild the _All About Trees_ site in a new repository as a
 > group using the planning and collaborating workflows.
 
-members of Group-4 are:
+members of Group-4 are :
 
 - [Lemma-Barnabas](https://github.com/Lemma-Barnabas)
 - [Inna](https://github.com/inna9Z)
