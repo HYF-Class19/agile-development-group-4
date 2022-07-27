@@ -7,7 +7,7 @@ _“Save trees, save nature”_...
 
 _“Plant tree. It is for free”_...
 
-![all about tree](.public/../public/all%20about%20tree%20.webp.jpeg)
+![all about tree](.public/../public/all-about-trees.jpeg)
 
 ---
 
