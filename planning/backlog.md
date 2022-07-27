@@ -30,17 +30,21 @@ are necessary for basic usability:
 
 will complete the user experience, but are not necessary:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- [ ] As a plant enthusiast I can navigate through the different content
+      elements
+
+> There's is a navigation bar with relevant links to different sections
+
+- [ ] As a plant enthusiast I can find appropriate information about trees which
+      is available in literature
+
+> The main content of the page is all about trees as well as links to further
+> information
+
+- [ ] As a general user I can distinguish between the main content about trees
+      and the links to extra information
+
+> The links in the main section are well highlighted and easily distinguishable
 
 ## Could-Haves
 
