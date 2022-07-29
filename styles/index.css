@@ -92,11 +92,13 @@
 
 .image__item {
   --uiMaskClipPath: var(--maskClipPath);
+
   box-sizing: var(--maskBoxSizing, border-box);
   display: var(--maskDisplay, inline-flex);
   padding: var(--maskStrokeThickness, 3px);
   clip-path: var(--uiMaskClipPath);
   background-color: var(--maskStrokeColor, currentColor);
+
   --maskStrokeColor: rgb(85, 202, 42);
   --maskStrokeThickness: 1px;
   --maskClipPath: polygon(0 50%, 50% 0, 100% 50%, 50% 100%);
@@ -104,8 +106,7 @@
 
 .image__item,
 .image__img {
-  transition: clip-path var(--maskAnimationDuration, 0.2s)
-    var(--maskAnimationTimingFunction, ease-out);
+  transition: clip-path var(--maskAnimationDuration, 0.2s) var(--maskAnimationTimingFunction, ease-out);
 }
 
 .image__img {
