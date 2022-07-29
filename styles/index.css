@@ -9,6 +9,27 @@
   cursor: pointer;
 }
 
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: left;
+}
+
+nav ul {
+  margin-top: 60px;
+  margin-right: 150;
+}
+
+nav ul li {
+  display: inline;
+  margin: 30px;
+  font-weight: 500;
+  font-size: 1.3em;
+  cursor: pointer;
+  color: black;
+  text-transform: uppercase;
+}
+
 .title {
   text-align: center;
 }
