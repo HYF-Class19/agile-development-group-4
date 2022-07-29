@@ -1,3 +1,3 @@
 # Design
 
-![design](../public/design.png)
+![design](../public/design2.png)
