@@ -104,7 +104,8 @@
 
 .image__item,
 .image__img {
-  transition: clip-path var(--maskAnimationDuration, 0.2s) var(--maskAnimationTimingFunction, ease-out);
+  transition: clip-path var(--maskAnimationDuration, 0.2s)
+    var(--maskAnimationTimingFunction, ease-out);
 }
 
 .image__img {
