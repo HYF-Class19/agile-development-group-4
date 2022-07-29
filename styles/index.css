@@ -60,12 +60,12 @@
   transition: 1s;
 }
 
-.main__title:hover:before {
+.main__title:hover::before {
   width: 250px;
   transition: ease-out 1s;
 }
 
-.main__title:after {
+.main__title::after {
   content: "";
   display: block;
   height: 1px;
@@ -75,7 +75,7 @@
   transition: 1s;
 }
 
-.main__title:hover:after {
+.main__title:hover::after {
   width: 250px;
   transition: ease-out 1s;
 }
@@ -88,17 +88,6 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: repeat(6, 5vw);
-  grid-gap: 0px;
-}
-
-.image__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.image__item:hover {
-  border: 3px solid #2ad36e;
 }
 
 .image__item {
@@ -113,21 +102,27 @@
   --maskClipPath: polygon(0 50%, 50% 0, 100% 50%, 50% 100%);
 }
 
-.image__item:hover,
-.image__item:focus {
-  --maskClipPath: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+.image__item,
+.image__img {
+  transition: clip-path var(--maskAnimationDuration, 0.2s) var(--maskAnimationTimingFunction, ease-out);
 }
 
 .image__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   max-width: 100%;
   display: block;
   clip-path: var(--uiMaskClipPath);
 }
 
-.image__item,
-.image__img {
-  transition: clip-path var(--maskAnimationDuration, 0.2s)
-    var(--maskAnimationTimingFunction, ease-out);
+.image__item:hover {
+  border: 3px solid#2ad36e;
+}
+
+.image__item:hover,
+.image__item:focus {
+  --maskClipPath: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
 
 .image__item--1 {
