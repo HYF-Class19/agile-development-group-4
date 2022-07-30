@@ -46,4 +46,3 @@ to work together and help each other accomplish or desired goals.
 ## Did You Need To Add Things That Weren't In Your Strategy or Remove Extra Steps?
 
 - We did everything according to our plan and strategy.
-  
