@@ -6,6 +6,7 @@ to work together and help each other accomplish or desired goals.
 ## Stop Doing
 
 - Sending pull requests without updating the local branch.
+- Pushing multiple files to github instead of the particular file needed.
 
 ## Continue Doing
 
@@ -23,10 +24,15 @@ to work together and help each other accomplish or desired goals.
 - Realistic planning helps in a better group performance.
 - Effective communication and feedback from colleagues builds a good
   team-spirit.
+- Working with CSS and HTML all together and as a group.
+- Resolving conflicts when pushing to github.
 
 ---
 
 ## Strategy vs Board
+
+- Using labels on our issues.
+- Our projects reflects our strategy.
 
 ## What Parts Of Your Plan Went As Expected?
 
@@ -38,3 +44,5 @@ to work together and help each other accomplish or desired goals.
   meeting.
 
 ## Did You Need To Add Things That Weren't In Your Strategy or Remove Extra Steps?
+
+- We did everything according to our plan and strategy.
