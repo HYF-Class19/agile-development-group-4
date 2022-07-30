@@ -1,11 +1,4 @@
 @import url("./something.css");
-<<<<<<< HEAD
-.container {
-  width: 400px;
-  height: 225px;
-  justify-content: center;
-  display: flex;
-=======
 
 /* header css start */
 
@@ -40,7 +33,12 @@ nav ul li {
 .title {
   text-align: center;
 }
-
+.container {
+  width: 400px;
+  height: 225px;
+  justify-content: center;
+  display: flex;
+}
 .title h1 {
   font-size: 3em;
   text-transform: uppercase;
@@ -189,5 +187,4 @@ nav ul li {
   grid-column-end: 4;
   grid-row-start: 5;
   grid-row-end: 7;
->>>>>>> dde7198b928003aa72c8d398315f3aa6413c5089
 }
