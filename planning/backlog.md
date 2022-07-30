@@ -28,7 +28,6 @@ are necessary for basic usability:
 
 - [ ] As an activist I can easily tell what the page is all about
 
-> Intro is short and well descriptive with some tree images/icons that build to
 > the story. The website also captures a green theme which gives away the
 > message
 
@@ -71,7 +70,7 @@ will complete the user experience, but are not necessary:
 
 ## Could-Haves
 
-would be really cool ... if there's time:
+would be really cool to add animation if there's time:
 
 ### Donation button
 
