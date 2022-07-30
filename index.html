@@ -8,6 +8,7 @@
 
     <link href="./styles/index.css" rel="stylesheet" />
   </head>
+
   <body>
     <!-- Header start -->
     <header>
@@ -24,6 +25,12 @@
       <div class="title">
         <h1>All about trees</h1>
         <p>Save the trees save the life</p>
+        <a
+          class="video"
+          href="https://www.youtube.com/watch?v=UnwMq1gGjhk&ab_channel=OneTreePlanted"
+          target="_blank"
+          >Video</a
+        >
       </div>
     </header>
     <!-- main section -->
@@ -99,5 +106,54 @@
         </figure>
       </div>
     </main>
+
+    <!-- subscribe button and pop-up form  -->
+
+    <div class="all">
+      <a href="#divOne" class="link">Subscribe</a>
+      <!-- donate button -->
+      <div class="donate">
+        <button type="submit" class="contribute">Donate</button>
+      </div>
+    </div>
+
+    <!-- Footer area-->
+    <footer class="footer">
+      <p>
+        <a
+          href="https://github.com/HYF-Class19/agile-development-group-4"
+          target="_blank"
+        >
+          &copy;Group4</a
+        >
+      </p>
+    </footer>
+    <div class="container" id="divOne">
+      <div class="intro">
+        Subscribe to our Newsletter
+        <a href="#" class="close">&times;</a>
+      </div>
+      <div class="content">
+        <div class="form">
+          <form action="#">
+            <div class="email">
+              <label for="mail">Email</label>
+              <input type="text" id="mail" class="address" required />
+            </div>
+            <div class="first-name">
+              <label for="first">First name</label>
+              <input type="text" class="name1" id="first" />
+            </div>
+            <div class="last-name">
+              <label for="last">Last name</label>
+              <input type="text" class="name2" id="last" />
+            </div>
+            <div class="button">
+              <button type="submit" class="center">Subscribe</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
