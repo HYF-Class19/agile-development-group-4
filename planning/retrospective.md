@@ -36,7 +36,7 @@ to work together and help each other accomplish or desired goals.
 
 ## What Parts Of Your Plan Went As Expected?
 
-- Planning went as forecasted
+- Planning went as forecasted.
 
 ## What Parts Of Your Plan Did Not Work Out Well?
 
