@@ -7,8 +7,6 @@ _“Save trees, save nature”_...
 
 _“Plant tree. It is for free”_...
 
-![all about tree](.public/../public/all-about-trees.jpeg)
-
 ---
 
 > This project is to rebuild the _All About Trees_ site in a new repository as a

@@ -1,39 +1,54 @@
-# Restaurants finder
+# All About Trees
 
 ---
 
-<!-- ## User Story Dependencies
+## Wireframe
 
-[Story Dependency Diagram](https://excalidraw.com/)
+![wireframe](../public/design2.png)
 
----
+## Logo of the page
 
-## WIREFRAME
+![logo](../public/logo.jpg)
 
-![wireframe]() -->
+## User Story Dependencies
+
+`As an activist I can find the logo of the page`
 
 ---
 
 ## 0.Setup
 
-- ...
-- ...
+- web page frame work in html
+- css style
+- link all components to the right element
 
----
+## Title
 
-## 1. Title
+**As an activist I can find the title of the page..**
 
-**As a user I want to ...**
+- The web title is centered and easy to find
 
-- This user story is developed on branch `branch-name`.
-- This branch is merged to `master` branch after completion.
+> Intro is short and well descriptive with some tree images/icons that build to
+> with hover-over effect
 
-### Task n1
+- write short and descriptive main content about trees
+- use green as main color and them
 
-- ...
-- ...
+## Nav
 
-### Task n2
+- navigation bar with different parts of pages
 
-- ...
-- ...
+## Media link
+
+- add relevant video link with important information about trees impact to the
+  planet
+
+## Main information
+
+- paragraph describing trees
+- add descriptive photos
+
+## Buttons
+
+- to subscribe
+- to donate
