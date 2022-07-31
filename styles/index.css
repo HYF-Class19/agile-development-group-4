@@ -33,12 +33,7 @@ nav ul li {
 .title {
   text-align: center;
 }
-.container {
-  width: 400px;
-  height: 225px;
-  justify-content: center;
-  display: flex;
-}
+
 .title h1 {
   font-size: 3em;
   text-transform: uppercase;
