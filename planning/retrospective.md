@@ -25,7 +25,7 @@ to work together and help each other accomplish or desired goals.
 - Effective communication and feedback from colleagues builds a good
   team-spirit.
 - Working with CSS and HTML all together and as a group.
-- Resolving conflicts when pushing to github.
+- Resolving conflicts when pushing to githu
 
 ---
 
